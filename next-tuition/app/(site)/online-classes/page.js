@@ -1,0 +1,1 @@
+export { default, metadata } from '../../online-classes/page'
